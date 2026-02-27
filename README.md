@@ -1,35 +1,35 @@
 # Smart Expense Tracker
 
-> A full-stack web application that allows users to manage and track their daily expenses effieciently.
-> It gives you a month-wise total of your expenses and helps you compare your monthly expenses.
-> The application provides a simple user- friendly interface to record, monitor, and visualize spending patterns.
+1. A full-stack web application that allows users to manage and track their daily expenses effieciently.
+2. It gives you a month-wise total of your expenses and helps you compare your monthly expenses.
+3. The application provides a simple user- friendly interface to record, monitor, and visualize spending patterns.
 
 _ _ _
 
 ## Features
 
-> User Registration & Login Authentication.
-> Add New Expenses.
-> Delete Expenses.
-> View Expense History.
-> Expense Visualization with Charts
-> Category-wise Expense Tracking
+1. User Registration & Login Authentication.
+2. Add New Expenses.
+3. Delete Expenses.
+4. View Expense History.
+5. Expense Visualization with Charts
+6. Category-wise Expense Tracking
 
 _ _ _
 
 ## Tech Stack
 
 **Frontend**
-> HTML
-> CSS
-> JavaScript
+1. HTML
+2. CSS
+3. JavaScript
 
 **Backend**
->Python
->Flask
+1.Python
+2.Flask
 
 **Database**
->MySQL
+1.MySQL
 
 
 ## Requirements
@@ -56,7 +56,7 @@ pip install passlib
 
 ```bash
 # Clone the repository
-git clone https://github.com/KavishShah09/Expense-Tracker.git
+git clone https://github.com/kavishamishra/Smart-Expense-Tracker.git
 ```
 
 ## Go to the directory where you cloned the repository
@@ -72,9 +72,9 @@ Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
 # Info
 
-> In this website,a user can signup and feed in his daily expenses and keep a track of it.The user can see the history of his expenses and filter them on the basis of month and year.The user can also visualise the data using the graphs provided.If the user,forgets the password,he can also change his password based on his email.A mail will be sent to the users address and the user can change the password by clicking on the link provided in the mail.
+1. In this website,a user can signup and feed in his daily expenses and keep a track of it.The user can see the history of his expenses and filter them on the basis of month and year.The user can also visualise the data using the graphs provided.If the user,forgets the password,he can also change his password based on his email.A mail will be sent to the users address and the user can change the password by clicking on the link provided in the mail.
 
-> Mobile Responsive
+2. Mobile Responsive
 
 
 # Overview Of The Website
@@ -116,15 +116,15 @@ Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
 ## Learning Outcomes
 
-> Implemented user Authentication 
-> Performed CRUD operations using Flask
-> Connected MySQL database with Python
-> Built data visualisation using charts
+1. Implemented user Authentication 
+2. Performed CRUD operations using Flask
+3. Connected MySQL database with Python
+4. Built data visualisation using charts
 
 ## Future Improvements
 
-> Improve UI responsiveness
-> Add monthly budget alerts
+1. Improve UI responsiveness
+2. Add monthly budget alerts
 
 
 ## Author
